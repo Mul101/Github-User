@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="search_user">Search User</string>
+    <string name="setting">setting</string>
+    <string name="name">name</string>
+    <string name="link_url">link url</string>
+    <string name="company">company, </string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="user">User</string>
+    <string name="location">location</string>
+    <string name="empty">Sorry, could not found user</string>
+    <string name="empty_followers">Sorry, this user do not have followers</string>
+    <string name="empty_following">Sorry, this user do not have following</string>
+    <string name="empty_favorites">You do not have favorite, please add a favorite</string>
+    <string name="logo">logo</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="menu_setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="activity_favorite">My Favorite</string>
+    <string name="share">share</string>
+</resources>
